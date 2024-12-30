@@ -155,13 +155,3 @@ form button {
 form button:hover {
     background-color: #FF6600;
 }
-
-.bericht {
-    display: none;
-}
-
-#blogbeheer {
-    width: 30%;
-    padding: 10px;
-    margin-bottom: 34px;
-}
